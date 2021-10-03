@@ -1,2 +1,2 @@
 # Wine-quality-prediction
-Python project
+R project
