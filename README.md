@@ -1,4 +1,4 @@
 # Wine-quality-prediction
-R and Python project
+R project
 
 https://rpubs.com/lov95/635432
